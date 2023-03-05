@@ -1,0 +1,1 @@
+Update test message for plik.txt file
